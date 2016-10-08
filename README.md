@@ -60,7 +60,7 @@
 * 编译：
 `$ sudo ant -f build_zip.xml all`
 如果成功会显示build successful，如下图所示：
-! [BUILD SUCCESSFUL](https://cl.ly/2W1X1E1t1K38) 
+![BUILD SUCCESSFUL](http://ww3.sinaimg.cn/large/0067oVAPgw1f8l8rxcyi7j30k90fnq74.jpg) 
 
 6. 运行例子：
 * 进入build/bin/mian路径下：
